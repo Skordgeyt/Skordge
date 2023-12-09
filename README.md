@@ -1,2 +1,2 @@
 # Skordge
-![Skill issue diagram](/human error.png)
+![Skill issue diagram](/human_error.png)
