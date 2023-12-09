@@ -1,2 +1,2 @@
 # Skordge
-aggg
+![Skill issue diagram](/human error.png)
