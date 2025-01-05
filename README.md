@@ -1,2 +1,2 @@
-# End of a World
-![NEPTUNE ASH](/splash.png)
+# Neptune Ash, in development.
+![NEPTUNE ASH](/neptuneash.png)
